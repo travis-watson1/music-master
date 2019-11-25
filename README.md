@@ -9,3 +9,7 @@ Search for an artist and Music Master will return the number of followers, music
 ## Preview
 
 See Music Master in action at https://music-master-travis-watson.herokuapp.com
+
+## Screenshot
+
+[musicmaker.png](https://postimg.cc/TL8zWM2K)
