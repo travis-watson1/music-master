@@ -12,4 +12,7 @@ See Music Master in action at https://music-master-travis-watson.herokuapp.com
 
 ## Screenshot
 
-[musicmaker.png](https://i.postimg.cc/9MzCKCvY/musicmaker.png)
+<div align="center">
+    <img src="https://i.postimg.cc/9MzCKCvY/musicmaker.png" width="400px"</img>
+</div>
+
